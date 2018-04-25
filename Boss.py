@@ -1,6 +1,6 @@
 #请求
 import requests
-#json模块
+#json
 import json
 #时间模块
 import time
