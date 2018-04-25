@@ -1,4 +1,4 @@
-#请求模块
+#请求
 import requests
 #json模块
 import json
