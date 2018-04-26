@@ -1,10 +1,10 @@
-#请求
 import requests
 import json
 import time
 import pymysql
 import threading
 import _thread
+#导入队列
 import queue
 from lxml import etree
 from SuperCode import dcVerCode
